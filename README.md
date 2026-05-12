@@ -27,7 +27,7 @@ cp .env.example .env
 Buat database MySQL:
 
 ```sql
-CREATE DATABASE eco_share_db;
+CREATE DATABASE ecoshare_db;
 ```
 
 Jalankan aplikasi:
