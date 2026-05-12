@@ -106,7 +106,7 @@ npm run dev
 }
 ```
 
-## Contoh Git Workflow
+## Git Workflow
 
 ```bash
 git init
