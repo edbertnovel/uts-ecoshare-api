@@ -1,4 +1,4 @@
-# Eco-Share API Versi
+# Eco-Share API
 
 Backend API untuk platform penyewaan alat elektronik bekas menggunakan NodeJS dan MySQL.
 
